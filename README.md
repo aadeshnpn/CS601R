@@ -8,3 +8,7 @@ Lab and Projects for CS601R: Advance Deep Learning
     - Cyclic Learning rate
     - Dropout
     - Orthnormal initilization.  
+    
+## Projects
+Sentiment Analysis using Homomorphic Encryption
+
